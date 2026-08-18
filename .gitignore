@@ -1,0 +1,21 @@
+# Python cache / virtual environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated inspection outputs
+hasil_capture/
+dataset_pembelajaran/
+data_excel_inspeksi/
+*.xlsx
+
+# Temporary / backup references
+referensi_komponen.json
+*.backup_lama_*

@@ -1,0 +1,4 @@
+opencv-python
+numpy
+openpyxl
+pygame; platform_system != "Windows"
